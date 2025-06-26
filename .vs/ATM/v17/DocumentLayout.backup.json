@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Remi\\Pictures\\Visual Studio\\ATM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B254BD7-1187-4575-9808-8BB8DC46625B}|Bank.csproj|c:\\users\\remi\\pictures\\visual studio\\atm\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B254BD7-1187-4575-9808-8BB8DC46625B}|Bank.csproj|solutionrelative:users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B254BD7-1187-4575-9808-8BB8DC46625B}|Bank.csproj|c:\\users\\remi\\pictures\\visual studio\\atm\\states\\platinumuserstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B254BD7-1187-4575-9808-8BB8DC46625B}|Bank.csproj|solutionrelative:states\\platinumuserstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B254BD7-1187-4575-9808-8BB8DC46625B}|Bank.csproj|c:\\users\\remi\\pictures\\visual studio\\atm\\states\\iuserstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B254BD7-1187-4575-9808-8BB8DC46625B}|Bank.csproj|solutionrelative:states\\iuserstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B254BD7-1187-4575-9808-8BB8DC46625B}|Bank.csproj|c:\\users\\remi\\pictures\\visual studio\\atm\\fees\\ifeestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B254BD7-1187-4575-9808-8BB8DC46625B}|Bank.csproj|solutionrelative:fees\\ifeestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B254BD7-1187-4575-9808-8BB8DC46625B}|Bank.csproj|c:\\users\\remi\\pictures\\visual studio\\atm\\fees\\feeselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B254BD7-1187-4575-9808-8BB8DC46625B}|Bank.csproj|solutionrelative:fees\\feeselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B254BD7-1187-4575-9808-8BB8DC46625B}|Bank.csproj|c:\\users\\remi\\pictures\\visual studio\\atm\\commands\\transfercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B254BD7-1187-4575-9808-8BB8DC46625B}|Bank.csproj|solutionrelative:commands\\transfercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B254BD7-1187-4575-9808-8BB8DC46625B}|Bank.csproj|c:\\users\\remi\\pictures\\visual studio\\atm\\commands\\depositcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B254BD7-1187-4575-9808-8BB8DC46625B}|Bank.csproj|solutionrelative:commands\\depositcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B254BD7-1187-4575-9808-8BB8DC46625B}|Bank.csproj|c:\\users\\remi\\pictures\\visual studio\\atm\\commands\\checkbalancecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B254BD7-1187-4575-9808-8BB8DC46625B}|Bank.csproj|solutionrelative:commands\\checkbalancecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B254BD7-1187-4575-9808-8BB8DC46625B}|Bank.csproj|c:\\users\\remi\\pictures\\visual studio\\atm\\bank\\banksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B254BD7-1187-4575-9808-8BB8DC46625B}|Bank.csproj|solutionrelative:bank\\banksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B254BD7-1187-4575-9808-8BB8DC46625B}|Bank.csproj|c:\\users\\remi\\pictures\\visual studio\\atm\\atm\\atmsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B254BD7-1187-4575-9808-8BB8DC46625B}|Bank.csproj|solutionrelative:atm\\atmsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B254BD7-1187-4575-9808-8BB8DC46625B}|Bank.csproj|c:\\users\\remi\\pictures\\visual studio\\atm\\accounts\\bonuspercentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B254BD7-1187-4575-9808-8BB8DC46625B}|Bank.csproj|solutionrelative:accounts\\bonuspercentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B254BD7-1187-4575-9808-8BB8DC46625B}|Bank.csproj|c:\\users\\remi\\pictures\\visual studio\\atm\\accounts\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B254BD7-1187-4575-9808-8BB8DC46625B}|Bank.csproj|solutionrelative:accounts\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserState.cs",
+              "DocumentMoniker": "C:\\Users\\Remi\\Pictures\\Visual Studio\\ATM\\States\\IUserState.cs",
+              "RelativeDocumentMoniker": "States\\IUserState.cs",
+              "ToolTip": "C:\\Users\\Remi\\Pictures\\Visual Studio\\ATM\\States\\IUserState.cs",
+              "RelativeToolTip": "States\\IUserState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:50:13.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlatinumUserState.cs",
+              "DocumentMoniker": "C:\\Users\\Remi\\Pictures\\Visual Studio\\ATM\\States\\PlatinumUserState.cs",
+              "RelativeDocumentMoniker": "States\\PlatinumUserState.cs",
+              "ToolTip": "C:\\Users\\Remi\\Pictures\\Visual Studio\\ATM\\States\\PlatinumUserState.cs",
+              "RelativeToolTip": "States\\PlatinumUserState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:50:16.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Remi\\Pictures\\Visual Studio\\ATM\\Users\\User.cs",
+              "RelativeDocumentMoniker": "Users\\User.cs",
+              "ToolTip": "C:\\Users\\Remi\\Pictures\\Visual Studio\\ATM\\Users\\User.cs",
+              "RelativeToolTip": "Users\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:50:20.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFeeStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Remi\\Pictures\\Visual Studio\\ATM\\Fees\\IFeeStrategy.cs",
+              "RelativeDocumentMoniker": "Fees\\IFeeStrategy.cs",
+              "ToolTip": "C:\\Users\\Remi\\Pictures\\Visual Studio\\ATM\\Fees\\IFeeStrategy.cs",
+              "RelativeToolTip": "Fees\\IFeeStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:50:07.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FeeSelection.cs",
+              "DocumentMoniker": "C:\\Users\\Remi\\Pictures\\Visual Studio\\ATM\\Fees\\FeeSelection.cs",
+              "RelativeDocumentMoniker": "Fees\\FeeSelection.cs",
+              "ToolTip": "C:\\Users\\Remi\\Pictures\\Visual Studio\\ATM\\Fees\\FeeSelection.cs",
+              "RelativeToolTip": "Fees\\FeeSelection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:50:00.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransferCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Remi\\Pictures\\Visual Studio\\ATM\\Commands\\TransferCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\TransferCommand.cs",
+              "ToolTip": "C:\\Users\\Remi\\Pictures\\Visual Studio\\ATM\\Commands\\TransferCommand.cs",
+              "RelativeToolTip": "Commands\\TransferCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:49:55.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepositCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Remi\\Pictures\\Visual Studio\\ATM\\Commands\\DepositCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\DepositCommand.cs",
+              "ToolTip": "C:\\Users\\Remi\\Pictures\\Visual Studio\\ATM\\Commands\\DepositCommand.cs",
+              "RelativeToolTip": "Commands\\DepositCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:49:51.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CheckBalanceCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Remi\\Pictures\\Visual Studio\\ATM\\Commands\\CheckBalanceCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\CheckBalanceCommand.cs",
+              "ToolTip": "C:\\Users\\Remi\\Pictures\\Visual Studio\\ATM\\Commands\\CheckBalanceCommand.cs",
+              "RelativeToolTip": "Commands\\CheckBalanceCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:49:46.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BankSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Remi\\Pictures\\Visual Studio\\ATM\\Bank\\BankSystem.cs",
+              "RelativeDocumentMoniker": "Bank\\BankSystem.cs",
+              "ToolTip": "C:\\Users\\Remi\\Pictures\\Visual Studio\\ATM\\Bank\\BankSystem.cs",
+              "RelativeToolTip": "Bank\\BankSystem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:49:36.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ATMSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Remi\\Pictures\\Visual Studio\\ATM\\ATM\\ATMSystem.cs",
+              "RelativeDocumentMoniker": "ATM\\ATMSystem.cs",
+              "ToolTip": "C:\\Users\\Remi\\Pictures\\Visual Studio\\ATM\\ATM\\ATMSystem.cs",
+              "RelativeToolTip": "ATM\\ATMSystem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:49:24.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BonusPercentAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Remi\\Pictures\\Visual Studio\\ATM\\Accounts\\BonusPercentAccount.cs",
+              "RelativeDocumentMoniker": "Accounts\\BonusPercentAccount.cs",
+              "ToolTip": "C:\\Users\\Remi\\Pictures\\Visual Studio\\ATM\\Accounts\\BonusPercentAccount.cs",
+              "RelativeToolTip": "Accounts\\BonusPercentAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:49:20.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Remi\\Pictures\\Visual Studio\\ATM\\Accounts\\Account.cs",
+              "RelativeDocumentMoniker": "Accounts\\Account.cs",
+              "ToolTip": "C:\\Users\\Remi\\Pictures\\Visual Studio\\ATM\\Accounts\\Account.cs",
+              "RelativeToolTip": "Accounts\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:49:09.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
